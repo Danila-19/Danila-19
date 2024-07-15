@@ -8,3 +8,12 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Danila-19&style=flat-square&color=blue" alt=""/>
+
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-mandreykin-blue?style=flat&logo=Telegram&logoColor=white)]([your-tg-url](https://t.me/mandreykin))

@@ -8,7 +8,7 @@ I am Danila Mandreikin, I started my path in IT with a passion for programming d
 I would be interested in working for a modern, growing company where I can
 apply my development skills. I love sports and traveling
 
-I'm based in Moscow <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJhYW1xcWRhcjRweGlubm5sc3M1c2I1bHdkcGlwaDF0Y2QxaWgweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VI2UC13hwWin1MIfmi/giphy.gif" width="50">
+I'm based in Moscow <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJhYW1xcWRhcjRweGlubm5sc3M1c2I1bHdkcGlwaDF0Y2QxaWgweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VI2UC13hwWin1MIfmi/giphy.gif" width="30">
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mandreykin/">

@@ -1,4 +1,4 @@
-Hi ![](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif) My name is Danila
+Hi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My name is Danila
 ==============================================================================================================================
 
 Python developer from Russia.

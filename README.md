@@ -1,7 +1,7 @@
 Hi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My name is Danila
 ==============================================================================================================================
 
-Python developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5uNzJ6OHVoOTd0eDZnd3J6YzI5cHRnbTBpazU0c2l6bGwwcnR6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="60">
+Python developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5uNzJ6OHVoOTd0eDZnd3J6YzI5cHRnbTBpazU0c2l6bGwwcnR6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="50">
 ----------------
 I am Danila Mandreikin, I started my path in IT with a passion for programming during my university studies. I gradually mastered Python and worked on small projects, which helped me acquire practical skills in creating and maintaining web applications. My main areas of focus include API development using Django REST framework, working with PostgreSQL and SQLite databases, and deploying and managing projects using Docker and Nginx.
 

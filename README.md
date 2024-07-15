@@ -1,4 +1,4 @@
-Hi !(https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)My name is Danila
+Hi ![](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif) My name is Danila
 ==============================================================================================================================
 
 Python developer from Russia.

@@ -17,5 +17,5 @@ apply my development skills. I love sports and traveling
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Danila-19&theme=dracula&hide_border=false)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danila-19&layout=compact&theme=dracula&hide_border=false](https://github.com/anuraghazra/github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Danila-19&theme=dracula&hide_border=false)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danila-19&layout=compact&theme=dracula&hide](https://github.com/anuraghazra/github-readme-stats)<br/>
 ---

@@ -1,40 +1,59 @@
-Danila Mandreikin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-==============================================================================================================================
+# Danila Mandreikin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Python developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5uNzJ6OHVoOTd0eDZnd3J6YzI5cHRnbTBpazU0c2l6bGwwcnR6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="50">
-----------------
-Python developer focused on building secure and high-load web services & server-side applications.
+Python Developer focused on building **secure** and **high-load** web services & server-side applications.
 
-## What I Do
-- 🏗️ **Backend Architecture:** FastAPI, TypeScript
-- 💾 **Data Management:** MongoDB, ClickHouse  
-- ⚡ **Performance:** Redis, OpenSearch
-- 🛡️ **Focus:** Security & scalability by design
+## 🚀 What I Do
+- 🏗️ **Backend Architecture:** Designing resilient APIs using Python (FastAPI) and TypeScript.
+- 💾 **Data Management:** Working with MongoDB for flexible storage and ClickHouse for high-performance analytics.
+- ⚡ **Performance & Search:** Optimizing system response with Redis caching and OpenSearch.
+- 🛡️ **Core Focus:** Security, scalability, and reliability by design.
 
-## Currently
-Looking for opportunities in a modern tech company where I can apply expertise in reliable backend solutions.
+## 💼 Currently
+Open to opportunities in a modern tech company where I can apply my expertise in building reliable and secure backend solutions.
 
-## Beyond Code
+## 🌍 Beyond Code
 🏃 Sports | ✈️ Traveling
 
-📍 Moscow
+📍 **Based in:** Moscow
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mandreykin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/mandreykin">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:your_email@example.com"> <!-- Замените на вашу почту -->
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Danila-19&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Danila-19&style=flat-square&color=blue" alt="Profile Views"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) 
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Building+Secure+High-Load+Systems;FastAPI+%26+TypeScript+Enthusiast)](https://git.io/typing-svg)
+
+---
+
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRpdzg1amtid2xnODlpNTk3NGIzaWxnYjAzM3k3anhnNGlqcTBrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif" width="30"> GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Danila-19&theme=dracula&hide_border=false) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danila-19&layout=compact&theme=dracula&hide)](https://github.com/anuraghazra/github-readme-stats)<br/>
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danila-19&theme=dracula&hide_border=false" alt="Streak Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danila-19&layout=compact&theme=dracula&hide_border=false" alt="Top Languages"/>
+</div>

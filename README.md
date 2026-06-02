@@ -8,9 +8,6 @@ Python Developer focused on building **secure** and **high-load** web services &
 - ⚡ **Performance & Search:** Optimizing system response with Redis caching and OpenSearch.
 - 🛡️ **Core Focus:** Security, scalability, and reliability by design.
 
-## 💼 Currently
-Open to opportunities in a modern tech company where I can apply my expertise in building reliable and secure backend solutions.
-
 ## 🌍 Beyond Code
 🏃 Sports | ✈️ Traveling
 

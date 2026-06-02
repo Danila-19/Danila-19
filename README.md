@@ -1,10 +1,8 @@
-Hi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My name is Danila
+Danila Mandreikin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ==============================================================================================================================
 
 Python developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5uNzJ6OHVoOTd0eDZnd3J6YzI5cHRnbTBpazU0c2l6bGwwcnR6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="50">
 ----------------
-# Danila Mandreikin
-
 Python developer focused on building secure and high-load web services & server-side applications.
 
 ## What I Do
